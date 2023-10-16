@@ -10,6 +10,5 @@ Från test grenen
 =======
 >>>>>>> refs/remotes/origin/main
 
-Green Text 
-<span style="color:green">
-Nu ska jag skriva 20 meningslösa ord om mig själv för att testa om färgen blir grön! Hoppas hoppas!</span>
+# Green Text 
+<span style="color:green">Nu ska jag skriva 20 meningslösa ord om mig själv för att testa om färgen blir grön! Hoppas hoppas!</span>
