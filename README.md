@@ -17,3 +17,27 @@ Från test grenen
 
 
 <font color="green"> esfsifhsiöhfioeshfoishfioshefio </font>
+
+---
+
+- en sak
+- två sak
+- tre sak
+- fyra sak
+- fem sak
+
+---
+
+1. En sak
+2. två sak
+3. Tre sak
+4. Fyra sak
+
+---
+
+| Innehåll | Och sånt |
+| --------- | ------- |
+| Kiss | Bajs |
+| Kasse | Brasse |
+
+---
