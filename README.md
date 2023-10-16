@@ -4,7 +4,7 @@ Jag gillar Tacos och Lasagne
 
 Jag kan själv
 <<<<<<< HEAD
-
+![](/c/Users/MDenn/desktop/Git-Workshop/halloween_emoji.png)
 Från test grenen
 =======
 >>>>>>> refs/remotes/origin/main
